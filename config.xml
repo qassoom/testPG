@@ -3,14 +3,14 @@
 <widget xmlns = "http://www.w3.org/ns/widgets" 
    xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.tutorialspoint.onlineviewer" version = "1.0">
    
-   <name>Tutorials Point</name>
+   <name>test PhoneGap</name>
    
    <description>
-      Tutorials Point Online Viewer
+      test PhoneGap Description
    </description>
    
    <author href = "http://tutorialspoint.com" email = "contact@tutorialspoint.com">
-      Tutorials Point
+      Qasim Al Khuzaie
    </author>
    
    <preference name = "permissions" value = "none"/>
